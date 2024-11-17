@@ -1,8 +1,7 @@
 import React from "react";
 import Title from "../layouts/Title";
 import Card from "./Card";
-import {HighlightsData} from "../../data/data";
-
+import { HighlightsData} from "../../data/data";
 const Highlights = () => {
   return (
     <section

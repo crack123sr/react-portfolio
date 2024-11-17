@@ -1,5 +1,5 @@
 import { AiFillAppstore } from "react-icons/ai";
-import {FaGlobe} from "react-icons/fa";
+import { FaGlobe} from "react-icons/fa";
 import { SiAntdesign } from "react-icons/si";
 
 // Features Data
