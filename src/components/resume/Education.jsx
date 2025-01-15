@@ -17,7 +17,7 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="BTech in Engineering and computational mecahnics"
+            title="BTech in Engineering and computational mechanics"
             subTitle="NIT JAMSHEDPUR(2023 - 2027)"
             result="CGPA:7.69"
             des="The training provided by college in order to prepare for work in various sectors of the economy or areas of culture through upgrading skills."
